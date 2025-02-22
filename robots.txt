@@ -1,4 +1,5 @@
-User-Agent: Googlebot Disallow: /
+User-Agent: *
+Disallow: /
 Disallow: /cara-terbaik-jepe-starlight-princess-pahami-teknik-pola-atur-modal.html
 Disallow: /keterampilan-pola-sakti-pgsoft-panduan-lengkap-pasti-menang.html
 Disallow: /meningkatkan-kesempatan-menang-mahjong-ways-2-pakai-bocoran-admin-pusat.html
